@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/JohnDay/Desktop/exp_tracking_demo/mlruns/0/72a2788077e44159ba8294ed537425be/artifacts
+end_time: 1655708335206
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 72a2788077e44159ba8294ed537425be
+run_uuid: 72a2788077e44159ba8294ed537425be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1655708335124
+status: 3
+tags: []
+user_id: JohnDay

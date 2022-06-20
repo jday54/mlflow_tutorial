@@ -1,0 +1,4 @@
+artifact_location: file:///Users/JohnDay/Desktop/exp_tracking_demo/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: mlflow-demo
